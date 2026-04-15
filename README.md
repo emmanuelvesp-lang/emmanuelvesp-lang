@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I´m Emmanuel an Student of physics, I would like to help you to resolve your program´s problem
+
 <!--
 **emmanuelvesp-lang/emmanuelvesp-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
